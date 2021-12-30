@@ -1,0 +1,37 @@
+<html>
+<head>
+	<link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+<h1>Dynamic Programming</h1>
+	<div style="display: flex;">
+		<div id="DP">
+			<div id="DP-canvas"></div>
+			<div class="run-info">
+				<div>
+					Status :
+					<span class="status">stopped</span>
+				</div>
+				<div>
+					Execution Time : <span class="exec-time">NaN</span>
+				</div>
+			</div>
+			<label id="n-container">
+				<label for="">N = <input style="width:200px;" id="n" type="number" value="1"/></label>
+
+			</label>
+			<label id="delay-container">
+				<label for="">Delay = <input id="delay" type="number" value="1"/></label>
+			</label>
+			<label>
+				<button id="run">run</button>
+			</label>
+		</div>
+	</div>
+	<script src="assets/js/dynamic-programming-tool.js"></script>
+	<script src="assets/js/chess-ui.js"></script>
+	<script src="assets/js/n-queens-dynamic-programming-engine.js"></script>
+	<script src="assets/js/n-queens-divide-and-conquer-engine.js"></script>
+	<script src="assets/js/custom.js"></script>
+</body>
+</html>
