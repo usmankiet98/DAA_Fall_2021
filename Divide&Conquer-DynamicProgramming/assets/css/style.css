@@ -1,0 +1,30 @@
+canvas {
+    margin: 10px;
+}
+
+#tools {
+    position: fixed;
+    right: 0;
+    top: 100;
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#tools > label {
+    text-align: center;
+    margin: 20px 20px 20px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#tools > label:last-child {
+    flex-direction: row;
+    align-items: center;
+}
+
+#tools > label:last-child > button {
+    height: max-content;
+    margin: 5px;
+}
