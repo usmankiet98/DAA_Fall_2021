@@ -19,7 +19,8 @@ The queens problem is to observe that, In how many ways n squeens can be placed 
 
 ### Helpful Links we used
 
-https://www.quora.com/What-is-the-minimum-number-of-Queens-with-which-you-can-cover-every-square-of-chess-board-Also-show-their-arrangement
-https://www.javatpoint.com/n-queens-problems
-https://puzzling.stackexchange.com/questions/22/how-many-chess-pieces-does-it-take-to-cover-all-spaces-on-a-chessboard
-https://stackoverflow.com/questions/66621439/javascript-typeerror-undefined-is-not-an-object
+# https://www.quora.com/What-is-the-minimum-number-of-Queens-with-which-you-can-cover-every-square-of-chess-board-Also-show-their-arrangement
+
+# https://www.javatpoint.com/n-queens-problems
+# https://puzzling.stackexchange.com/questions/22/how-many-chess-pieces-does-it-take-to-cover-all-spaces-on-a-chessboard
+# https://stackoverflow.com/questions/66621439/javascript-typeerror-undefined-is-not-an-object
